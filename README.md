@@ -1,7 +1,7 @@
 pidgin2gajim
 ============
 
-This program converts OTR keys from Pidgin format to Gajim format.
+This program converts OTR keys from Pidgin format to Gajim format. You should be [using Gajim instead of Pidgin for more secure OTR chat](https://micahflee.com/2013/02/using-gajim-instead-of-pidgin-for-more-secure-otr-chat/). This tool allows you to transition and take your OTR key and your list of verified fingerprints with you.
 
 Your Pidgin OTR files are here:
 
